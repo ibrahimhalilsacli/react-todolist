@@ -33,7 +33,7 @@ class App extends Component {
 
   render() {
     return (
-        <div className="App">
+        <div className="App" basename="react-todolist">
           <div className="list-container">
             <h1 className="heading">To Do List</h1>
             <NewItemForm addItem={this.handleAddItem.bind(this)} />

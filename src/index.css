@@ -11,17 +11,15 @@ body, html {
 .heading {
   padding-top: 30px;
   text-align: center;
-  font-family: 'Work Sans', sans-serif;
   font-size: 2.5em;
   color: #6E6F73;
 }
 
 .form-field {
-  width: 83%;
+  width: 82%;
   height: 40px;
   border: 1px #EDEDED solid;
   font-size: 1em;
-  font-family: 'Work Sans', sans-serif;
   outline: none;
   padding: 0;
   padding-left: 10px;
@@ -30,7 +28,6 @@ body, html {
 .form-submit {
   width: 14.6%;
   height: 42px;
-  font-family: 'Work Sans', sans-serif;
   font-size: 1em;
   float: right;
   border: none;
@@ -41,7 +38,7 @@ body, html {
 
 .list-container {
   margin: 0 auto;
-  width: 500px;
+  width: 390px;
   background-color: #fff;
   box-shadow: 5px 5px 10px #D3D3D3;
 }
